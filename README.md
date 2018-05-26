@@ -4,5 +4,4 @@ This repository houses materials I'm working on to introduce biostatistics to th
 
 Part I is available now, and basically takes the reader through some basic definitions and common visualizations seen in statistical work. I'm still working on Part II (making comparisons) and Part III (basic regression analysis) and will upload those soon when available.
 
-Note: to access the materials the reader needs to right click and DOWNLOAD the material to their own computer. Github won't allow you to see the materials otherwise (it gives an error message).
-
+Note: to access the links in the text the reader needs to actually DOWNLOAD the material to his or her own computer.
